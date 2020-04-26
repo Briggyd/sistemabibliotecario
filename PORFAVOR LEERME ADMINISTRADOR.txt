@@ -1,0 +1,7 @@
+1. Para ingresar ingresar al programa debe llamarse la carpeta sistemabibliote.
+2. la base de datos se debe llamar  biblioteca
+3. para ingreso como administrador cuenta con usuarios.
+usuarios:
+email:rincon@gmail.com pasw: 12345
+Email: garzon@gmail.com pasw: 12345 
+4. lo preferible es abrir el proyecto en modo incognito.
